@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weirong Cui(崔衛榮) "
+title: "Cross-Disciplinary AI in Biomedicine: From Algorithms to Translational Science"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,9 +17,9 @@ Previously, I served as an Assistant Research Fellow at Soochow University, enga
 My broader research vision is centered on **harnessing artificial intelligence for next-generation therapeutics**, integrating **predictive modeling, generative molecular design, and AI-driven clinical decision support** to transform the way we understand and treat complex diseases.
 
 📢 News
-🏆 2025.07.01 Appointed Distinguished Professor at the Department of Burns and Plastic Surgery, The First Affiliated Hospital of Soochow University.  
-🏆 2024.07.01  Appointed Distinguished Consultant at the Centre for Cognitive and Brain Sciences, University of Macau. 
-🏆 2023.03.01  Appointed Distinguished Professor at Wenzhou Medical University, School of Pharmacy. 
+- 🏆 2025.07.01 Appointed Distinguished Professor at the Department of Burns and Plastic Surgery, The First Affiliated Hospital of Soochow University.  
+- 🏆 2024.07.01  Appointed Distinguished Consultant at the Centre for Cognitive and Brain Sciences, University of Macau. 
+- 🏆 2023.03.01  Appointed Distinguished Professor at Wenzhou Medical University, School of Pharmacy. 
 
 📚 Publications  
 You can find my research articles on my [Publications profile](https://cwrai.github.io/publications/).
