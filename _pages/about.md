@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-WeiRong Cui(崔衛榮) 
+Weirong Cui(崔衛榮) 
 
 Hello, welcome to Wei Rong’s personal website. I am a doctoral candidate at the Polytechnic University of Macao, specializing in the **intersection of artificial intelligence, deep learning, chemoinformatics, and bioinformatics**, with a particular focus on **biomedical and clinical applications**. My research aims to leverage **computational and data-driven approaches** to accelerate drug discovery, improve therapeutic strategies, and advance precision health informatics.
 
@@ -23,7 +23,7 @@ My broader research vision is centered on **harnessing artificial intelligence f
 🏆 2024.01.01 Appointed Distinguished Consultant at the Centre for Cognitive and Brain Sciences, University of Macau.  
 
 📚 Publications  
-You can find my research articles on my [Publications profile] .
+You can find my research articles on my [Publications profile](https://cwrai.github.io/publications/).
 
 📁 Resources  
 - AI-driven molecular design and generative modeling projects  
