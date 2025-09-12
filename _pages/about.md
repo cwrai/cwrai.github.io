@@ -1,3 +1,9 @@
+---
+title: "about"
+sitemap: false
+permalink: /about.html
+---
+
 Wei Rong 4 AI  
 Hello, welcome to Wei Rong’s personal website. I am a doctoral candidate at the Polytechnic University of Macao, specializing in the **intersection of artificial intelligence, deep learning, chemoinformatics, and bioinformatics**, with a particular focus on **biomedical and clinical applications**. My research aims to leverage **computational and data-driven approaches** to accelerate drug discovery, improve therapeutic strategies, and advance precision health informatics.
 
