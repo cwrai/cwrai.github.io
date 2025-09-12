@@ -6,7 +6,16 @@ permalink: /publication/2015-unknown
 excerpt: 'Discovery and characterization of long intergenic non-coding RNAs (lincRNA) module biomarkers in prostate cancer: an int...'
 date: 2015-01-01
 venue: 'BMC Genomics'
-impactfactor: TBD
+impactfactor: 4.4
 paperurl: 'https://doi.org/10.1186/1471-2164-16-S7-S3'
 citation: '**Cui, Weirong**, Qian, Y., Zhou, X., Lin, Y., Jiang, J., Chen, J., Zhao, Z., Shen, B. (2015). "Discovery and characterization of long intergenic non-coding RNAs (lincRNA) module biomarkers in prostate cancer: an integrative analysis of RNA-Seq data." <i>BMC Genomics</i>, 16(Suppl 7), S3. 10.1186/1471-2164-16-S7-S3'
 ---
+
+Background
+Prostate cancer (PCa) is a leading cause of cancer-related death of men worldwide. There is an urgent need to develop novel biomarkers for PCa prognosis and diagnosis in the post prostate specific antigen era. Long intergenic noncoding RNAs (lincRNAs) play essential roles in many physiological processes and can serve as alternative biomarkers for prostate cancer, but there has been no systematic investigation of lincRNAs in PCa yet.
+
+Results
+Nine lincRNA co-expression modules were identified from PCa RNA-Seq data. The association between the principle component of each module and the PCa phenotype was examined by calculating the Pearson's correlation coefficients. Three modules (M1, M3, and M5) were found associated with PCa. Two modules (M3 and M5) were significantly enriched with lincRNAs, and one of them, M3, may be used as a lincRNA module-biomarker for PCa diagnosis. This module includes seven essential lincRNAs: TCONS_l2_00001418, TCONS_l2_00008237, TCONS_l2_00011130, TCONS_l2_00013175, TCONS_l2_00022611, TCONS_l2_00022670 and linc-PXN-1. The clustering analysis and microRNA enrichment analysis further confirmed our findings.
+
+Conclusion
+The correlation between lincRNAs and protein-coding genes is helpful for further exploration of functional mechanisms of lincRNAs in PCa. This study provides some important insights into the roles of lincRNAs in PCa and suggests a few lincRNAs as candidate biomarkers for PCa diagnosis and prognosis.
