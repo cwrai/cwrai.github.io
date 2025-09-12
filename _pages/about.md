@@ -1,7 +1,7 @@
 ---
 title: "about"
 sitemap: false
-permalink: /about.html
+permalink: /about/
 ---
 
 Wei Rong 4 AI  
