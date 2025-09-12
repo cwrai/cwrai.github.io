@@ -8,7 +8,7 @@ date: 2015-01-01
 venue: 'BMC Genomics'
 impactfactor: 4.4
 paperurl: 'https://doi.org/10.1186/1471-2164-16-S7-S3'
-citation: '**Cui, Weirong**, Qian, Y., Zhou, X., Lin, Y., Jiang, J., Chen, J., Zhao, Z., Shen, B. (2015). "Discovery and characterization of long intergenic non-coding RNAs (lincRNA) module biomarkers in prostate cancer: an integrative analysis of RNA-Seq data." <i>BMC Genomics</i>, 16(Suppl 7), S3. 10.1186/1471-2164-16-S7-S3'
+citation: '*<b>Cui, W.</b>, Qian, Y., Zhou, X., Lin, Y., Jiang, J., Chen, J., Zhao, Z., Shen, B. (2015). "Discovery and characterization of long intergenic non-coding RNAs (lincRNA) module biomarkers in prostate cancer: an integrative analysis of RNA-Seq data." <i>BMC Genomics</i>, 16(Suppl 7), S3. 10.1186/1471-2164-16-S7-S3'
 ---
 
 Background
