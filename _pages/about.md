@@ -1,10 +1,14 @@
 ---
-title: "about"
-sitemap: false
-permalink: /about/
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Wei Rong 4 AI  
+WeiRong Cui(崔衛榮) 
+
 Hello, welcome to Wei Rong’s personal website. I am a doctoral candidate at the Polytechnic University of Macao, specializing in the **intersection of artificial intelligence, deep learning, chemoinformatics, and bioinformatics**, with a particular focus on **biomedical and clinical applications**. My research aims to leverage **computational and data-driven approaches** to accelerate drug discovery, improve therapeutic strategies, and advance precision health informatics.
 
 I am particularly interested in applying AI and machine learning to address complex biomedical challenges, including **multi-omics integration, molecular design, protein and RNA modeling, and predictive clinical analytics**. My work lies at the forefront of **AI-driven translational medicine**, combining computational innovation with experimental validation to bridge the gap between fundamental research and clinical practice.
