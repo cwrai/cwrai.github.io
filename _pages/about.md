@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Weirong Cui(崔衛榮) "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Weirong Cui(崔衛榮) 
 
 Hello, welcome to Wei Rong’s personal website. I am a doctoral candidate at the Polytechnic University of Macao, specializing in the **intersection of artificial intelligence, deep learning, chemoinformatics, and bioinformatics**, with a particular focus on **biomedical and clinical applications**. My research aims to leverage **computational and data-driven approaches** to accelerate drug discovery, improve therapeutic strategies, and advance precision health informatics.
 
