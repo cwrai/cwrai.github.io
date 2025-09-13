@@ -73,14 +73,12 @@ Teaching
 
 Service and leadership
 ======
-* Active participation in multiple professional communities  
-  * Currently signed in to 43 different Slack teams for collaboration and networking  
-* Academic and research mentorship  
-  * Supervising undergraduate and graduate students in AI and biomedical research projects  
-  * Providing guidance on computational modeling, bioinformatics, and drug discovery  
-* Conference and workshop organization  
-  * Organizer/committee member for international AI and biomedical conferences  
-  * Coordinating seminars and workshops on AI applications in life sciences  
-* Peer review and editorial service  
-  * Reviewing manuscripts for journals in bioinformatics, cheminformatics, and AI in medicine  
-  * Serving on editorial boards and scientific advisory panels
+*Professional Community Engagement：
+  *Actively participate in multiple professional communities, collaborating and networking with dozens of partners.
+
+*Academic and Research Mentorship: 
+  *Supervise undergraduate and graduate students, providing guidance on AI, computational modeling, bioinformatics, and drug discovery projects.
+
+*Peer Review and Editorial Service: 
+  *Provide manuscript reviews for journals in bioinformatics, cheminformatics, and AI in medicine, and serve on various editorial boards and scientific advisory panels.
+
