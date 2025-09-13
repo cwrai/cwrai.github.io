@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in AI, Polytechnic University of Macao, 2025(expected)
+* Ph.D. in AI, Polytechnic University, (2023-2026)
 * M.Sc. in Computational Biology, Soochow University, 2011-2014
 * B.S. in Information Science, Nantong University, 2007-2011
 
@@ -64,7 +64,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
