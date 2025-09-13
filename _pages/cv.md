@@ -73,12 +73,12 @@ Teaching
 
 Service and leadership
 ======
-*Professional Community Engagement：
-  *Actively participate in multiple professional communities, collaborating and networking with dozens of partners.
+* Professional Community Engagement：
+  * Actively participate in multiple professional communities, collaborating and networking with dozens of partners.
 
-*Academic and Research Mentorship: 
-  *Supervise undergraduate and graduate students, providing guidance on AI, computational modeling, bioinformatics, and drug discovery projects.
+* Academic and Research Mentorship: 
+  * Supervise undergraduate and graduate students, providing guidance on AI, computational modeling, bioinformatics, and drug discovery projects.
 
-*Peer Review and Editorial Service: 
-  *Provide manuscript reviews for journals in bioinformatics, cheminformatics, and AI in medicine, and serve on various editorial boards and scientific advisory panels.
+* Peer Review and Editorial Service: 
+  * Provide manuscript reviews for journals in bioinformatics, cheminformatics, and AI in medicine, and serve on various editorial boards and scientific advisory panels.
 
