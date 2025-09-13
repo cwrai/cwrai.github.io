@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in AI, Polytechnic University, (2023-2026)
+* Ph.D. in Artificial Intelligence, Polytechnic University, 2026(expected)
 * M.Sc. in Computational Biology, Soochow University, 2011-2014
 * B.S. in Information Science, Nantong University, 2007-2011
 
@@ -44,10 +44,6 @@ Skills
   * Virtual Screening & QSAR Modeling
   * Molecular Docking & Pharmacophore Analysis
   * Generative Molecular Design
-* Data Science & Programming
-  * Python, R, MATLAB
-  * Data Visualization (Plotly, Matplotlib, Seaborn)
-  * Statistical Modeling & Analysis
 * High-Performance Computing & Cloud Platforms
   * GPU Acceleration, HPC Clusters
   * AWS, Azure, Tencent Cloud
