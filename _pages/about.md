@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+🎉 Biography
+Hello, welcome to Wei Rong’s personal website. My research and professional expertise lie at the convergence of **artificial intelligence, deep learning, chemoinformatics, and bioinformatics**, with a primary focus on their transformative applications in biomedical and clinical sciences. My broader vision is to pioneer AI-driven translational medicine by integrating predictive modeling, generative molecular design, and AI-driven clinical decision support for next-generation therapeutics.
 
-Hello, welcome to Wei Rong’s personal website. I am a doctoral candidate at the Polytechnic University of Macao, specializing in the **intersection of artificial intelligence, deep learning, chemoinformatics, and bioinformatics**, with a particular focus on **biomedical and clinical applications**. My research aims to leverage **computational and data-driven approaches** to accelerate drug discovery, improve therapeutic strategies, and advance precision health informatics.
+I specialize in applying AI to solve complex **biomedical challenges**, including **multi-omics integration, molecular design, and protein/RNA modeling**. My work bridges fundamental research and clinical practice by combining computational innovation with experimental validation.
 
-I am particularly interested in applying AI and machine learning to address complex biomedical challenges, including **multi-omics integration, molecular design, protein and RNA modeling, and predictive clinical analytics**. My work lies at the forefront of **AI-driven translational medicine**, combining computational innovation with experimental validation to bridge the gap between fundamental research and clinical practice.
-
-Previously, I served as an Assistant Research Fellow at Soochow University, engaging in interdisciplinary projects across computational chemistry, systems biology, and translational pharmacology. In addition to my doctoral studies, I hold several academic appointments: **Distinguished Consultant** at the Centre for Cognitive and Brain Sciences, University of Macau; **Distinguished Professor** at Wenzhou Medical University; and **Distinguished Professor** at the Department of Burns and Plastic Surgery, The First Affiliated Hospital of Soochow University.
-
-My broader research vision is centered on **harnessing artificial intelligence for next-generation therapeutics**, integrating **predictive modeling, generative molecular design, and AI-driven clinical decision support** to transform the way we understand and treat complex diseases.
+My professional background includes a prior role as an Assistant Research Fellow at Soochow University, and I hold several distinguished academic appointments, including Distinguished Consultant at the University of Macau and Distinguished Professor at Wenzhou Medical University and The First Affiliated Hospital of Soochow University.
 
 📢 News
 - 🏆 2025.07.01 Appointed Distinguished Professor at the Department of Burns and Plastic Surgery, The First Affiliated Hospital of Soochow University.  
