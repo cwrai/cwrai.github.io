@@ -13,11 +13,11 @@ Hello, welcome to Wei Rong’s personal website. My research and professional ex
 
 I specialize in applying AI to solve complex **biomedical challenges**, including **multi-omics integration, molecular design, and protein/RNA modeling**. My work bridges fundamental research and clinical practice by combining computational innovation with experimental validation.
 
-My professional background includes a prior role as an Assistant Research Fellow at Soochow University, and I hold several distinguished academic appointments, including Distinguished Consultant at the University of Macau and Distinguished Professor at Wenzhou Medical University and The First Affiliated Hospital of Soochow University.
+Alongside my academic roles as Distinguished Consultant at the University of Macau and Distinguished Professor at Wenzhou Medical University, I possess extensive expertise in technology transfer. My professional credentials in this field include being a Certified Suzhou Technology Manager and holding the Senior Professional Title of Technology Manager in Jiangsu Province.
 
 📢 News
 -
-- 🏆 2025.07  Appointed Distinguished Professor at the Department of Burns and Plastic Surgery, The First Affiliated Hospital of Soochow University.  
+- 🏆 2025.12  Conducted an academic visit to the State Key Laboratory of Multimodal Artificial Intelligence Systems (CASIA).  
 - 🏆 2024.11  Appointed Distinguished Consultant at the Centre for Cognitive and Brain Sciences, University of Macau. 
 - 🏆 2023.03  Appointed Distinguished Professor at Wenzhou Medical University, School of Pharmacy. 
 
