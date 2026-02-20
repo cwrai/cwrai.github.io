@@ -17,7 +17,7 @@ Alongside my academic roles as Distinguished Consultant at the University of Mac
 
 📢 News
 -
-- 🏆 2026.01  Distinguished Research Fellow, Key Laboratory of Brain Critical Diseases, Affiliated Suzhou Hospital, Nanjing Medical University.
+- 🏆 2026.01  [Distinguished Research Fellow, Key Laboratory of Brain Critical Diseases, Affiliated Suzhou Hospital, Nanjing Medical University.]([https://cwrai.github.io/publications/](https://mp.weixin.qq.com/s?src=11&timestamp=1771575413&ver=6553&signature=rZovvCfYbbeuWhQN9sGcg*ebTfdAniqPB6inKD*dGSvY78frzP46GiBQxdxA4v-q7mHwIxTE8RVtqepydyvpT2Wp8L5U-1IlLvgnlLXW2jtDSfr84SxpOxQqNuv3qqrc&new=1))
 - 🏆 2025.12  Conducted an academic visit to the State Key Laboratory of Multimodal Artificial Intelligence Systems (CASIA).  
 - 🏆 2024.11  Appointed Distinguished Consultant at the Centre for Cognitive and Brain Sciences, University of Macau. 
 - 🏆 2023.03  Appointed Distinguished Professor at Wenzhou Medical University, School of Pharmacy. 
