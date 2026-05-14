@@ -15,6 +15,8 @@ I specialize in applying AI to solve complex **biomedical challenges**, includin
 
 Alongside my academic roles as Distinguished Consultant at the University of Macau and Distinguished Professor at Wenzhou Medical University, I possess extensive expertise in technology transfer. My professional credentials in this field include being a Certified Suzhou Technology Manager and holding the Senior Professional Title of Technology Manager in Jiangsu Province.
 
+I serve as a peer reviewer for several academic journals, including **Biomedical Signal Processing and Control** and **BMC Genomics**, among others.
+
 📢 News
 -
 - 🏆 2026.01  [Distinguished Research Fellow, Key Laboratory of Brain Critical Diseases, Affiliated Suzhou Hospital, Nanjing Medical University.](https://mp.weixin.qq.com/s?src=11&timestamp=1771575413&ver=6553&signature=rZovvCfYbbeuWhQN9sGcg*ebTfdAniqPB6inKD*dGSvY78frzP46GiBQxdxA4v-q7mHwIxTE8RVtqepydyvpT2Wp8L5U-1IlLvgnlLXW2jtDSfr84SxpOxQqNuv3qqrc&new=1)
