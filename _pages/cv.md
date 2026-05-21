@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-* **Assistant Research Fellow (Natural Sciences)** – Soochow University | 2014–2017  
+* **Assistant Research Fellow (Natural Sciences)** – Soochow University | 2014–2023 
   Engaged in research projects across natural sciences, contributing to interdisciplinary studies and collaborations.
 
 * **International Cooperation Programme Officer** – Ministry of Science and Technology of the People's Republic of China | 2015–2016  
