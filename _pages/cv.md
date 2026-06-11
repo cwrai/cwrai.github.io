@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Artificial Intelligence, Macao Polytechnic University 
-* M.Sc. in Computational Biology, Soochow University
-* B.S. in Information Science, Nantong University
+* Ph.D. in Artificial Intelligence
+* M.Sc. in Computational Biology
+* B.S. in Information Science
 
 Work experience
 ======
